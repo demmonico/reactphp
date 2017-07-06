@@ -1,0 +1,13 @@
+log/*
+vendor/*
+
+# Vagrant related
+# ===============
+.vagrant
+#----------------
+
+# IDE internal files/folders
+# ==========================
+nbproject
+.idea/*
+#---------------------------
